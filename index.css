@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(1, 22, 43, 1);
+
+  padding-top: 150px;
+}
+
+
+p {
+  padding: 5px 10px;
+  text-align: center;
+  color: black;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.huh {
+  width: 50%;
+
+  border: 10px solid rgb(255, 111, 111);
+  background-color: #6660ff;
+  margin: auto;
+}
